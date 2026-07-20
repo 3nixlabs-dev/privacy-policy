@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="google-site-verification" content="QBW7y4FPnIwYhXwmaEchtl-tf71lCuzWT7DAuGOjg6Y" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Privacy Policy</title>
+
+<style>
+body{
+    margin:0;
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Noto Sans KR",sans-serif;
+    background:#f5f6fa;
+}
+
+.container{
+    max-width:700px;
+    margin:80px auto;
+    background:#fff;
+    padding:50px;
+    border-radius:15px;
+    box-shadow:0 5px 20px rgba(0,0,0,.08);
+}
+
+h1{
+    text-align:center;
+    margin-bottom:10px;
+    color:#222;
+}
+
+p{
+    text-align:center;
+    color:#666;
+    margin-bottom:40px;
+}
+
+.btn{
+    display:block;
+    width:100%;
+    text-align:center;
+    text-decoration:none;
+    font-size:18px;
+    padding:18px;
+    border-radius:10px;
+    margin-bottom:15px;
+    transition:.2s;
+}
+
+.kr{
+    background:#1976d2;
+    color:white;
+}
+
+.en{
+    background:#444;
+    color:white;
+}
+
+.btn:hover{
+    transform:translateY(-2px);
+    opacity:.95;
+}
+
+.footer{
+    margin-top:40px;
+    text-align:center;
+    color:#888;
+    font-size:13px;
+}
+</style>
+
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>Privacy Policy</h1>
+
+<p>
+Please select your preferred language.
+</p>
+
+<a class="btn kr" href="privacy-ko.html">
+🇰🇷 한국어
+</a>
+
+<a class="btn en" href="privacy-en.html">
+🇺🇸 English
+</a>
+
+<div class="footer">
+© 2026 3Nix.Labs
+</div>
+
+</div>
+
+</body>
+</html>
